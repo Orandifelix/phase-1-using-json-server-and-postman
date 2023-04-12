@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 4
+    },
+    {
+      "name": "Annie Easley",
+      "occupation": "Computer Scientist",
+      "id": 5
+    },
+    {
+      "Id": 3,
+      "title": "forth Article",
+      "content": "Another example!",
+      "id": 6
+    }
+  ]
+}
